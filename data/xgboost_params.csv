@@ -1,0 +1,3 @@
+﻿model,max_depth,eta,n_estimators,gamma_xgb,subsample,scale_pos_weight,min_child_weight
+xgboost_call,15,0.19684057798124177,2000,0.005,0.8,1.5,1
+xgboost_spectrogram,15,0.19684057798124177,2000,0.001,0.9,1.5,1

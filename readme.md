@@ -1,6 +1,6 @@
 # Detection and Multi-Label Classification of Bats
 Python code to detect and identify the bat species in audio recordings by applying multi-label Machine Learning techniques. 
-This work was achieved by Lucile Dierckx, Mélanie Beauvois and Siegrfried Nijssen (UCLouvain/ICTEAM).
+This work was achieved by Lucile Dierckx, Mélanie Beauvois and Siegfried Nijssen (UCLouvain/ICTEAM).
 
 ### Challenges
 The different challenges that our architecture has to face are:
@@ -30,10 +30,10 @@ The models to which our architecture is compared on the challenges are:
 | ------------- |:-------------:|:-------------:|:-------------:|
 | ResNet8      | One ResNet50     | Fully connected layer on ResNet |Fully connected layer on ResNet    |
 | ResNet2      | Two ResNet50s     | Fully connected layer on ResNet1     | Fully connected layer on ResNet2    |
-| ResNet xgboost      | One ResNet50     | Fully connected layer on ResNet     | Fully connected layer on ResNet     |
+| ResNet XGBoost      | One ResNet50     | Fully connected layer on ResNet     | Fully connected layer on ResNet     |
 | CNN8      | One simple CNN     | Fully connected layer on CNN |Fully connected layer on CNN    |
 | CNN2      | Two simple CNNs     | Fully connected layer on CNN1     | Fully connected layer on CNN2    |
-| CNN xgboost      | One simple CNN     | Fully connected layer on CNN     | Fully connected layer on CNN     |
+| CNN XGBoost      | One simple CNN     | Fully connected layer on CNN     | Fully connected layer on CNN     |
 
 ### Train Our Classifiers on Your Own Data
 

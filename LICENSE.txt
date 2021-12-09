@@ -1,0 +1,4 @@
+Code, audio data and annotations are available for reasearch purposes only i.e. non-commercial use. 
+For any other use of the software or data please contact the authors.
+The autors are Dierckx, Lucile, Beauvois, Mélanie and Siegfried Nijssen.
+For Bat detective, on which our work is based, the authors are Mac Aodha, Oisin and Gibb, Rory and Barlow, Kate and Browning, Ella and Firman, Michael and Freeman, Robin and Harder, Briana and Kinsey, Libby and Mead, Gary and Newson, Stuart and Pandourski, Ivan and Parsons, Stuart and Russ, Jon and Szodoray-Paradi, Abigel and Szodoray-Paradi, Farkas and Tilova, Elena and Girolami, Mark and Brostow, Gabriel and E. Jones, Kate. 

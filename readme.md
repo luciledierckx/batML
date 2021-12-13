@@ -30,10 +30,10 @@ The models to which our architecture is compared on the challenges are:
 | ------------- |:-------------:|:-------------:|:-------------:|
 | ResNet8      | One ResNet50     | Fully connected layer on ResNet |Fully connected layer on ResNet    |
 | ResNet2      | Two ResNet50s     | Fully connected layer on ResNet1     | Fully connected layer on ResNet2    |
-| ResNet XGBoost      | One ResNet50     | Fully connected layer on ResNet     | Fully connected layer on ResNet     |
+| ResNet XGBoost      | One ResNet50     | XGBoost on ResNet     | XGBoost on ResNet     |
 | CNN8      | One simple CNN     | Fully connected layer on CNN |Fully connected layer on CNN    |
 | CNN2      | Two simple CNNs     | Fully connected layer on CNN1     | Fully connected layer on CNN2    |
-| CNN XGBoost      | One simple CNN     | Fully connected layer on CNN     | Fully connected layer on CNN     |
+| CNN XGBoost      | One simple CNN     | XGBoost on CNN     | XGBoost on CNN     |
 
 ### Train Our Classifiers on Your Own Data
 

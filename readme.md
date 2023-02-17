@@ -1,4 +1,6 @@
 # Detection and Multi-Label Classification of Bats
+This repository contains the implementation for our work "[Detection and Multi-Label Classification of Bats](https://link.springer.com/chapter/10.1007/978-3-031-01333-1_5)", accepted to IDA 2022 (Oral).
+
 Python code to detect and identify the bat species in audio recordings by applying multi-label Machine Learning techniques. 
 This work was achieved by Lucile Dierckx, Mélanie Beauvois and Siegfried Nijssen (UCLouvain/ICTEAM).
 
@@ -94,7 +96,19 @@ The code has been designed to run using the following packages:
 `xgboost 1.4.0`  
 
 ### Reference
-In case you want to use our work as part of your research please consider citing us.
+In case you want to use our work as part of your research please consider citing our paper:
+```
+@InProceedings{batML2022,
+author="Dierckx, Lucile and Beauvois, M{\'e}lanie and Nijssen, Siegfried",
+editor="Bouadi, Tassadit and Fromont, Elisa and H{\"u}llermeier, Eyke",
+title="Detection and Multi-label Classification of Bats",
+booktitle="Advances in Intelligent Data Analysis XX",
+year="2022",
+publisher="Springer International Publishing",
+pages="53--65",
+isbn="978-3-031-01333-1"
+}
+```
 
 ### Acknowledgements
 We would like to express our gratitude to [Natagora](https://www.natagora.be/) and the [Plecotus](https://plecotus.natagora.be/index.php?id=707) team for the large amount of labelled bat call recordings they shared with us. 

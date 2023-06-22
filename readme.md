@@ -111,7 +111,7 @@ isbn="978-3-031-01333-1"
 ```
 
 ### Acknowledgements
-We would like to express our gratitude to [Natagora](https://www.natagora.be/) and the [Plecotus](https://plecotus.natagora.be/index.php?id=707) team for the large amount of labelled bat call recordings they shared with us. 
+We would like to express our gratitude to [Natagora](https://www.natagora.be/) and the [Plecotus](https://plecotus.natagora.be/) team for the large amount of labelled bat call recordings they shared with us. 
 
 We would also like to thank [Bat detective](http://visual.cs.ucl.ac.uk/pubs/batDetective) for the data they have made available and their detection tool, used as starting point in this work. 
 
